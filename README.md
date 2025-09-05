@@ -9,4 +9,4 @@
 rodgerhanson/rodgerhanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Watch the video](https://www.youtube.com/watch?v=RCWWtzrI-e8)
+[![Watch the video](https://www.youtube.com/watch?v=RCWWtzrI-e8)](https://www.youtube.com/watch?v=RCWWtzrI-e8)
